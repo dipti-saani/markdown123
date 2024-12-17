@@ -1,15 +1,44 @@
-# markdown123
+# Introducing the AWS Cloud
+- [Introducing the AWS Cloud](#introducing-the-aws-cloud)
+- [Introduction](#introduction)
+  - [Key Features](#key-features)
 
-# Files
+# Introduction
+Providing services over internet for example data storage, networking, software instead of maintaining physical server and data canter is called as cloud computing.  
+The cloud allows users to store and access data and applications over the internet rather than on their own hard drives or local servers. Cloud services follow a pay-as-you-go model that eliminates the large capital investment in physical infrastructure.  
+Data and applications can be accessed from any device with an internet connection that enables remote work and collaboration.  
+Amazon Web Services (AWS) is widely adopted cloud computing platform provided by Amazon. It offers a broad set of services that help businesses and individuals to build, deploy, and manage applications in the cloud with ease, scalability, and flexibility.  
+AWS provides a highly reliable, scalable, and low-cost infrastructure platform that supports a variety of workloads, ranging from simple websites to complex machine learning applications.
+  
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-## Create files and folders
+## Key Features
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+**1.	Compute Services:**  
+* **Amazon EC2 (Elastic Compute Cloud):** This service allows you to launch virtual servers to run applications in the cloud.  
+* **Amazon Elastic Beanstalk:** This service allows you to deploy and manage applications in various programming languages with minimal configuration.  
 
-## Switch to another file
+**2. Storage Services:**  
+*	**Simple Storage Service:** This service is used for storing and retrieving any amount of data at any time. It's ideal for backups, content distribution, and data archiving.  
+*	**Elastic Block Store:** Provides persistent block-level storage volumes for use with EC2 instances, suitable for databases, file systems, or any application that requires persistent storage.
+*	**Amazon Glacier:** Provides low-cost storage service designed for data archiving and long-term backup.
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+**3. Database Services:**
+*	**Relational Database Service:** A managed service that simplifies the setup, operation, and scaling of relational databases like MySQL, PostgreSQL, SQL Server, and Oracle.
+*	**Amazon DynamoDB:** A fast and flexible database service that provides high performance and scalability.
+*	**Amazon Aurora:** A MySQL- and PostgreSQL-compatible relational database offering high performance and availability at a lower cost.
 
-## Rename a file
+  
+**4.	Networking and Content Delivery:**
+* **Amazon VPC (Virtual Private Cloud):** A service that allows users to create a private network within AWS, giving complete control over IP address ranges, subnets, route tables, and network gateways.
+*	**Amazon CloudFront:** A global content delivery network (CDN) that speeds up the delivery of your website, applications, and content to users worldwide.  
+
+**5.	Security and Identity:**
+* **AWS IAM (Identity and Access Management):** Provides fine-grained access control for AWS resources by managing users, groups, and permissions.
+* **AWS Shield:** A managed DDoS (Distributed Denial of Service) protection service to safeguard applications against malicious attacks.
+*	**Amazon GuardDuty:** A security monitoring service that provides intelligent threat detection and continuous security monitoring for your AWS environment.
+
+**6.	Machine Learning & Artificial Intelligence:**
+*	**Amazon SageMaker:** A service for building, training, and deploying machine learning models quickly and easily.
+*	**AWS Rekognition:** A service that allows you to add image and video analysis capabilities to your applications, such as facial recognition and object detection.
+
