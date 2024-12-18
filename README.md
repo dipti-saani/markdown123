@@ -1,7 +1,10 @@
 # Introducing the AWS Cloud
+
 - [Introducing the AWS Cloud](#introducing-the-aws-cloud)
 - [Introduction](#introduction)
   - [Key Features](#key-features)
+- [Graphic Diagram of AWS Cloud](#graphic-diagram-of-aws-cloud)
+
 
 # Introduction
 Providing services over internet for example data storage, networking, software instead of maintaining physical server and data canter is called as cloud computing.  
@@ -42,3 +45,6 @@ AWS provides a highly reliable, scalable, and low-cost infrastructure platform t
 *	**Amazon SageMaker:** A service for building, training, and deploying machine learning models quickly and easily.
 *	**AWS Rekognition:** A service that allows you to add image and video analysis capabilities to your applications, such as facial recognition and object detection.
 
+# Graphic Diagram of AWS Cloud
+
+![](https://www.slideegg.com/image/webpv2/830/702186-amazon-web-services-powerpoint-template-830.webp)
