@@ -47,4 +47,4 @@ AWS provides a highly reliable, scalable, and low-cost infrastructure platform t
 
 # Graphic Diagram of AWS Cloud
 
-![](https://www.slideegg.com/image/webpv2/830/702186-amazon-web-services-powerpoint-template-830.webp)
+![](https://miro.medium.com/v2/resize:fit:1252/1*qkvVasKibDCkw4jAq8Mp6Q.png)
