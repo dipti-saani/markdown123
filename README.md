@@ -20,12 +20,12 @@ AWS provides a highly reliable, scalable, and low-cost infrastructure platform t
 
 **2. Storage Services:**  
 *	**Simple Storage Service:** This service is used for storing and retrieving any amount of data at any time. It's ideal for backups, content distribution, and data archiving.  
-*	**Elastic Block Store:** Provides persistent block-level storage volumes for use with EC2 instances, suitable for databases, file systems, or any application that requires persistent storage.
-*	**Amazon Glacier:** Provides low-cost storage service designed for data archiving and long-term backup.
+*	**Elastic Block Store:** This service provides persistent block-level storage volumes for use with EC2 instances, suitable for databases, file systems, or any application that requires persistent storage.
+*	**Amazon Glacier:** This service provides low-cost storage service designed for data archiving and long-term backup.
 
 **3. Database Services:**
-*	**Relational Database Service:** A managed service that simplifies the setup, operation, and scaling of relational databases like MySQL, PostgreSQL, SQL Server, and Oracle.
-*	**Amazon DynamoDB:** A fast and flexible database service that provides high performance and scalability.
+*	**Relational Database Service:** This is a managed service that simplifies the setup, operation, and scaling of relational databases like MySQL, PostgreSQL, SQL Server, and Oracle.
+*	**Amazon DynamoDB:** This is a fast and flexible database service that provides high performance and scalability.
 *	**Amazon Aurora:** A MySQL- and PostgreSQL-compatible relational database offering high performance and availability at a lower cost.
 
   
